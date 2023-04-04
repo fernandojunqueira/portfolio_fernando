@@ -57,8 +57,7 @@ export const Home = (): JSX.Element => {
               </Text>{" "}
             </Text>
             <Text type="body1" color="grey2">
-              Descubra aqui neste ambiente, criado especialmente para você, todos
-              meus projetos e tecnologias
+            Sou de Franca interior de são Paulo, me mudei para florianópolis em 2017 para cursar engenharia de materiais na Universidade Federal de Santa Catarina (UFSC) e foi onde eu tive contato com pessoas que estudavam e trabalhavam com programação. Também tive algumas oportunidades de visitar alguns parques tecnológicos como ACATE e SAPIENS parque. E isso me fez despertar o interesse na área da tecnologia. Em maio de 2022 tive a oportunidade de ingressar no curso da Kenzie Academy Brasil de desenvolvedor FullStack . E abaixo tem a meus projetos desenvolvido ao longo do curso.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
